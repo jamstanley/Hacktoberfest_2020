@@ -23,11 +23,11 @@
 
 ```html
 <p align="center">
-<img src="img/[filename]" height="400">
+<img src="img/bot.png" height="400">
 
-<h1 align="center">[Your Full Name]</h1>
+<h1 align="center">JAM STANLEY AMBE</h1>
 
-<h2 align="center">[Job Role/Student/Other]</h2>
+<h2 align="center">student</h2>
 
 <p align='center'>
   <a href="[your email id]"><img height="50" src="img/gmail.png?raw=true"></a>&nbsp;&nbsp;
